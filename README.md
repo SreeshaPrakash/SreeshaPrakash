@@ -37,10 +37,6 @@ I'm **Sreesha Prakash**, a passionate developer who loves building cool projects
 
 <div align="center">
 
-![Sreesha Prakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SreeshaPrakash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SreeshaPrakash&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=SreeshaPrakash&theme=tokyonight&hide_border=true)
 
 </div>
@@ -48,7 +44,7 @@ I'm **Sreesha Prakash**, a passionate developer who loves building cool projects
 # 💬 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SreeshaPrakash)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sreesha-p/)lin
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sreesha-p/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreeshaputhuparambil@gmail.com)
 
 ---
@@ -63,8 +59,3 @@ I'm **Sreesha Prakash**, a passionate developer who loves building cool projects
 
 </div>
 
-<div align="center">
-
-⭐️ From [SreeshaPrakash](https://github.com/SreeshaPrakash)
-
-</div>
